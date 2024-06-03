@@ -1,0 +1,2 @@
+eainf/googletest@master -DCMAKE_POSITION_INDEPENDENT_CODE=ON -DCMAKE_BUILD_TYPE=Release
+

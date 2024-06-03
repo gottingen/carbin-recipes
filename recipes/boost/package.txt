@@ -1,1 +1,1 @@
-boost,https://sourceforge.net/projects/boost/files/boost/1.80.0/boost_1_80_0.tar.bz2 -X boost -DBOOST_WITHOUT_CONTEXT=1 -DBOOST_WITHOUT_COROUTINE=1 -DBOOST_WITHOUT_PYTHON=1
+boost,https://github.com/boostorg/boost/archive/refs/tags/boost-1.80.0.tar.gz -X boost -DBOOST_WITHOUT_CONTEXT=1 -DBOOST_WITHOUT_COROUTINE=1 -DBOOST_WITHOUT_PYTHON=1

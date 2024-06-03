@@ -1,1 +1,1 @@
-google/protobuf@v3.20.0 -X build.cmake -DCMAKE_POSITION_INDEPENDENT_CODE=ON -DCMAKE_BUILD_TYPE=Release -Dprotobuf_BUILD_TESTS=OFF -Dprotobuf_BUILD_STATIC_LIBS=ON -Dprotobuf_WITH_PROTOC=ON -Dprotobuf_WITH_ZLIB=ON
+protocolbuffers/protobuf@v3.20.0 -X build.cmake -DCMAKE_POSITION_INDEPENDENT_CODE=ON -DCMAKE_BUILD_TYPE=Release -Dprotobuf_BUILD_TESTS=OFF -Dprotobuf_BUILD_STATIC_LIBS=ON -Dprotobuf_WITH_PROTOC=ON -Dprotobuf_WITH_ZLIB=ON

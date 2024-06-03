@@ -1,3 +1,3 @@
 # cget-recipes
 
-Recipes for [cget](http://cget.readthedocs.io/)/
+Recipes for [carbin](http://carbin.readthedocs.io/)/

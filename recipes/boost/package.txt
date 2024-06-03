@@ -1,1 +1,1 @@
-boost,https://github.com/boostorg/boost/archive/refs/tags/boost-1.80.0.tar.gz -X boost -DBOOST_WITHOUT_CONTEXT=1 -DBOOST_WITHOUT_COROUTINE=1 -DBOOST_WITHOUT_PYTHON=1
+boost,https://github.com/boostorg/boost/releases/download/boost-1.81.0/boost-1.81.0.tar.xz -X boost -DBOOST_WITHOUT_CONTEXT=1 -DBOOST_WITHOUT_COROUTINE=1 -DBOOST_WITHOUT_PYTHON=1

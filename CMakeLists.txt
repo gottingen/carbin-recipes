@@ -11,7 +11,7 @@ endmacro()
 
 foreach(RECIPE ${RECIPES})
     get_directory_base(RECIPE_DIR ${RECIPE})
-    install(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/${RECIPE} DESTINATION etc/cget/recipes/)
+    install(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/${RECIPE} DESTINATION etc/carbin/recipes/)
     # message(STATUS "RECIPE: ${RECIPE}")
     # message(STATUS "RECIPE_DIR: ${RECIPE_DIR}")
 endforeach()

@@ -6,4 +6,4 @@ if(UNIX)
     execute_process(COMMAND chmod +x ${CMAKE_CURRENT_SOURCE_DIR}/tools/build/src/engine/build.sh)
 endif()
 
-include(${CGET_CMAKE_DIR}/boost.cmake)
+include(${CARBIN_CMAKE_DIR}/boost.cmake)

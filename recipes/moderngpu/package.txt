@@ -1,1 +1,0 @@
-moderngpu@master -X header -DINCLUDE_DIR="src"

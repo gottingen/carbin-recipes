@@ -1,1 +1,0 @@
-mosra/magnum@master

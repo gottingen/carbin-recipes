@@ -1,4 +1,0 @@
-allegro
-glfw
-sdl
-sfml

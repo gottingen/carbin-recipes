@@ -1,1 +1,0 @@
-ddiakopoulos/tinygizmo@master -X build.cmake

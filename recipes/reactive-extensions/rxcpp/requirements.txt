@@ -1,2 +1,0 @@
-# Catch is always needed since tests cannot be disabled
-philsquared/catch --build

@@ -1,5 +1,0 @@
-boost
-glfw
-cginternals/glbinding
-g-truc/glm
-freeimage

@@ -1,4 +1,0 @@
-zlib
-libjpeg
-libpng
-libtiff

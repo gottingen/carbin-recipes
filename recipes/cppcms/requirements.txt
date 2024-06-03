@@ -1,3 +1,0 @@
-# libpcre
-libressl
-zlib

@@ -1,1 +1,0 @@
-LoopPerfect/valuable@v0.2.0 -X header -DINCLUDE_DIR=valuable/include

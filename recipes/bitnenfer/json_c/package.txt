@@ -1,1 +1,0 @@
-bitnenfer/json_c@master -X build.cmake

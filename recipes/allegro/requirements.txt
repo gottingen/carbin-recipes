@@ -1,4 +1,0 @@
-openal
-libpng
-libjpeg
-zlib

@@ -1,1 +1,0 @@
-fgenesis/minihttp@master -X build.cmake -DMINIHTTP_USE_MBEDTLS=On

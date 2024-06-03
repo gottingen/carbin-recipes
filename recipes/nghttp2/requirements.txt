@@ -1,6 +1,0 @@
-boost
-libressl
-akheron/jansson
-libev
-c-ares
-zlib

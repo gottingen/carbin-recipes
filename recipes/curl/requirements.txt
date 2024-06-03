@@ -1,5 +1,0 @@
-libressl
-libssh2
-nghttp2
-c-ares
-zlib

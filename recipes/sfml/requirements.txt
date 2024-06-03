@@ -1,4 +1,0 @@
-libjpeg
-openal
-xiph/flac
-xiph/vorbis

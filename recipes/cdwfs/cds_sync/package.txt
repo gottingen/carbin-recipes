@@ -1,1 +1,0 @@
-cdwfs/cds_sync@master -X header

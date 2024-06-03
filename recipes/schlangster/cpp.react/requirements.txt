@@ -1,3 +1,0 @@
-tbb
-google/googletest --test
-boost

@@ -1,1 +1,0 @@
-banditcpp/snowhouse@v3.0.0 -X header -DHEADER_DIR=snowhouse

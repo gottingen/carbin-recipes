@@ -1,3 +1,0 @@
-boost
-google/benchmark --test
-philsquared/catch --test

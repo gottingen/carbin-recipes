@@ -1,2 +1,0 @@
-LoopPerfect/smallfunction@master -X header -DINCLUDE_DIR=smallfun/include
-

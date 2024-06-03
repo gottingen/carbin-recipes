@@ -1,0 +1,4 @@
+allegro
+glfw
+sdl
+sfml

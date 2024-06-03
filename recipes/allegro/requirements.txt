@@ -1,0 +1,4 @@
+openal
+libpng
+libjpeg
+zlib
